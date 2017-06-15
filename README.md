@@ -1,14 +1,14 @@
 # DigitalOcean Provider for OAuth 2.0 Client
+
+## This fork is of Chris Hemming's package is specifically only for php 7+ and the latest version of OAuth 2.0 client for compatibility with other OAuth 2.0 packages which require the newer version. I'll keep it updated with any changes from Chris Hemming's package. 
+---
 [![Latest Version](https://img.shields.io/github/release/chrishemmings/oauth2-digitalocean.svg?style=flat-square)](https://github.com/chrishemmings/oauth2-digitalocean/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build Status](https://img.shields.io/travis/chrishemmings/oauth2-digitalocean/master.svg?style=flat-square)](https://travis-ci.org/chrishemmings/oauth2-digitalocean)
 [![Quality Score](https://img.shields.io/scrutinizer/g/chrishemmings/oauth2-digitalocean.svg?style=flat-square)](https://scrutinizer-ci.com/g/chrishemmings/oauth2-digitalocean)
 [![Total Downloads](https://img.shields.io/packagist/dt/chrishemmings/oauth2-digitalocean.svg?style=flat-square)](https://packagist.org/packages/chrishemmings/oauth2-digitalocean)
 
-
 This package provides DigitalOcean OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
-
-This fork supports php 7 and the latest version of OAuth 2.0 client
 
 ## Installation
 
