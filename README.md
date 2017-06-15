@@ -8,12 +8,14 @@
 
 This package provides DigitalOcean OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
+This fork supports php 7 and the latest version of OAuth 2.0 client
+
 ## Installation
 
 To install, use composer:
 
 ```
-composer require chrishemmings/oauth2-digitalocean
+composer require gregvarghese/oauth2-digitalocean
 ```
 
 ## Usage
