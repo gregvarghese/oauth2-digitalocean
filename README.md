@@ -1,6 +1,6 @@
 # DigitalOcean Provider for OAuth 2.0 Client
 
-## This fork is of Chris Hemming's package is specifically only for php 7+ and the latest version of OAuth 2.0 client for compatibility with other OAuth 2.0 packages which require the newer version. I'll keep it updated with any changes from Chris Hemming's package. 
+This fork is of Chris Hemming's package is specifically only for PHP 7+ and the latest version of OAuth 2.0 client for compatibility with other OAuth 2.0 packages which require the newer version. I'll keep it updated with any changes from Chris Hemming's package.
 ---
 [![Latest Version](https://img.shields.io/github/release/chrishemmings/oauth2-digitalocean.svg?style=flat-square)](https://github.com/chrishemmings/oauth2-digitalocean/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -20,7 +20,7 @@ composer require gregvarghese/oauth2-digitalocean
 
 ## Usage
 
-Usage is the same as The League's OAuth client, using `\ChrisHemmings\OAuth2\Client\Provider\DigitalOcean` as the provider.
+Usage is the same as The League's OAuth client, using `\gvarghese\OAuth2\Client\Provider\DigitalOcean` as the provider.
 
 ### Authorization Code Flow
 
